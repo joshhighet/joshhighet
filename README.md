@@ -21,12 +21,13 @@ i maintain relays for
 - [@TheTorProject](https://github.com/TheTorProject)
 - [@signalapp](https://github.com/signalapp/Signal-TLS-Proxy)
 
-some of my work
+some of my things
 
-- [the underground uptime monitor](https://cyber.betteruptime.com)
 - [ransomwatch](http://ransomwatch.telemetry.ltd) - the original, transparent ransomware post tracker
+- [kerchow](https://github.com/joshhighet/kerchow) - a terminal handyman for security researchers and analysts
 - [securitytools](https://tools.watchdawg.io) - a collection of high-quality open source security centric projects
 - [bebop](https://github.com/joshhighet/bebop) - the tool to reveal origins behind Tor & reverse CDN's
 - [multisocks](https://github.com/joshhighet/multisocks) - a scaling framework for tor relay to load-balance high-throughput tasks
+- [cyber.betteruptime.com](https://cyber.betteruptime.com) - the underground uptime monitor
 
 feel free to donate or sponsor via githubb
