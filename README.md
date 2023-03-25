@@ -14,7 +14,6 @@ i am a {volunter/member/contributor} with a number of public groups which show e
 - [@curated-intel](https://github.com/curated-intel)
 - [NZ Internet Task Force](https://nzitf.org.nz)
 - [@EFForg](https://github.com/EFForg)
-- [Splunk SURGe Cohort](https://www.splunk.com/en_us/surge/about.html)
 
 i maintain relays for
 
