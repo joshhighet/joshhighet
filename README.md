@@ -6,17 +6,15 @@
 
 hi, i'm josh
 
-i build things, do internet and security research and try track digital crimers
+i do security `(research|hacćin|investigatin)` and share some of the tools I develop to along the way here. 
 
-i am a {volunter/member/contributor} with a number of public groups which show either a clear intent on disrupting digital shenanigans or are driven to create a safer connected world
+you may find me `(voluntering|contributing|building)` around;
 
 - [@vxunderground](https://github.com/vxunderground)
 - [@curated-intel](https://github.com/curated-intel)
-- [NZ Internet Task Force](https://nzitf.org.nz)
 - [@EFForg](https://github.com/EFForg)
-
-i maintain relays for
-
 - [@TheTorProject](https://github.com/TheTorProject)
-- [@signalapp](https://github.com/signalapp/Signal-TLS-Proxy)
- 
+- [NZ Internet Task Force](https://nzitf.org.nz)
+- [Internet NZ](https://internetnz.nz)
+
+contact: [dotco.nz/j](https://dotco.nz/j)
