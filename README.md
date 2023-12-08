@@ -6,7 +6,7 @@
 
 hi, i'm josh
 
-i do security `(research|hacćin|investigatin)` and share some of the tools I make along the way here. 
+i do security `(research|investigations)` and share some of the tools I make along the way here. 
 
 you may find me `(voluntering|contributing|building)` around;
 
