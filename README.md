@@ -18,4 +18,4 @@ you may find me `(voluntering|contributing|building)` around;
 - [NZ Internet Task Force](https://nzitf.org.nz)
 - [Internet NZ](https://internetnz.nz)
 
-contact: [dotco.nz/j](https://dotco.nz/j)
+i'm currently open to work. working on something cool? get in contact: [dotco.nz/j](https://dotco.nz/j)
