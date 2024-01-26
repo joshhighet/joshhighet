@@ -8,7 +8,7 @@ hi, i'm josh
 
 i do security `(research|investigations)` and share some of the tools I make along the way here. 
 
-you may find me `(voluntering|contributing|building)` around;
+you may find me `(volunteering|contributing|building)` around;
 
 - [@vxunderground](https://github.com/vxunderground)
 - [@curated-intel](https://github.com/curated-intel)
