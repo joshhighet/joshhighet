@@ -17,5 +17,3 @@ you may find me `(voluntering|contributing|building)` around;
 - [@TheTorProject](https://github.com/TheTorProject)
 - [NZ Internet Task Force](https://nzitf.org.nz)
 - [Internet NZ](https://internetnz.nz)
-
-i'm currently open to work. working on something cool? get in contact: [dotco.nz/j](https://dotco.nz/j)
