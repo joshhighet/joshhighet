@@ -15,5 +15,4 @@ you may find me `(volunteering|contributing|building)` around;
 - [@EFForg](https://github.com/EFForg)
 - [@OWASP](https://github.com/OWASP)
 - [@TheTorProject](https://github.com/TheTorProject)
-- [NZ Internet Task Force](https://nzitf.org.nz)
 - [Internet NZ](https://internetnz.nz)
